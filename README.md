@@ -25,6 +25,7 @@ The terrestrial launch infrastructure utilizes an optimized, non-electric vacuum
 ---
 
 ## 📐 2. Track Classes & The Duplex Core Carousel
+- **Biological Necessity Resource Architecture:** The extensive water-jacket envelopes and liquid immersion systems are strictly isolated to human-rated passenger transit (Class 2). Hardened cargo and raw materials (Class 1) travel completely dry and unprotected, allowing the infrastructure to bypass massive fluid payloads and operate at maximum kinetic and energy efficiency when biological life support is not required.
 
 The infrastructure scales across three dedicated track configurations optimized for specific payloads and maintenance profiles:
 
