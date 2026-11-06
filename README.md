@@ -1,6 +1,6 @@
 # 🌐 Project MagShot: Symmetrical Oblique Launch & Closed-Loop Planetary Infrastructure
 
-This project introduces a high-logic, multi-tiered interplanetary transportation framework that optimizes environmental resources and leverages advanced electromagnetic physics. By eliminating chemical rocket propellants during initial launch phases, the architecture provides a scalable framework for cargo and human transit across Earth, the Moon, and Mars.
+This project introduces a high-logic, multi-tiered interplanetary transportation framework that optimizes environmental resources and leverages advanced electromagnetic physics. By eliminating chemical rocket propellants during initial launch phases, the architecture provides a scalable framework for cargo and human transit.
 
 ---
 
@@ -33,38 +33,6 @@ The infrastructure scales across three dedicated track configurations optimized 
 - **Class 3: Main Line Carousel (Duplex Rump):** A massive transit hub housing two separate 360° zig-zag tubes inside a single outer vacuum sheath:
   1. *Zero-Downtime Swaps:* While Tube A actively launches outbound vessels, Tube B is locked into a downward maintenance berth.
   2. *Revolver Core Mechanism:* When Tube A requires cleaning or track lubrication, the internal cylinder mechanically rotates 180 degrees like a revolver cylinder, bringing the pristine Tube B online in milliseconds without halting scheduling.
-
----
-
-## 🌕 3. LUNAR INTERCEPT: Regenerative Braking Gate
-
-Without an atmosphere to cause friction, the lunar reception network acts as a passive, loong-axis magnetic brake:
-
-- **Predictive AI Alignment Loop:** Earth-bound and Lunar supercomputer nodes calculate launch matrices with absolute accuracy, aiming the vessel from thousands of kilometers away so precisely that it drops cleanly into the mouth of the lunar magnetic rail.
-- **Zero-Latency Hienosäätö (Local AI):** The ship's on-board local AI monitors micro-oscillations at 0-latency, utilizing secondary magnetic guidance coils to center the ship as it locks onto the rail guide.
-- **Regenerative Grid Return:** The immense kinetic energy harvested during vessel deceleration is converted back into electrical power via linear alternators, feeding the Lunar colony grid while specialized service crawlers clean static lunar dust from the arrays.
-
----
-
-## 🧬 4. AUTONOMOUS BIOSPHERE: Closed-Loop Hydrology & Bio-Shielding
-
-The vessel core features a dual-stage water wall matrix that stabilizes internal temperature (21–24 °C) and converts space hazards into core systems power:
-
-- **Scintillation Energy Harvesting (Submerged Perovskite Array):** The outer hull envelope is filled with asteroid-harvested "dirty" water. High-energy cosmic radiation colliding with the water undergoes a scintillation effect, shifting down into visible light. Submerged Perovskite solar cells—encapsulated in pure quartz glass—absorb this light immediately, converting deep space radiation directly into kW power to fuel the ship's internal algae arrays.
-- **Multi-Cellular Algae Compartmentality (Chlorella Matrix):** The life-support oxygen framework is parallelized across hundreds of isolated quartz-glass tubes insulated by shock-absorbing acoustic mats. This geometry disperses fluid kinetic shockwaves (preventing water-hammer effects during docking maneuvers) and allows the local AI to immediately seal and isolate a single contaminated cell via high-speed magnetic valves without pressure drops.
-- **Biological Conditioning Protocol:** 
-  1. *Shark-Protein Hydrogel:* Applied to the skin to create a hydrogen-rich external radiation shield.
-  2. *DNA-Repair Nutrients:* A specialized antioxidant and bio-available shark protein diet to mend internal cellular anomalies.
-  3. *Hypoxic Immersion Conditioning:* Crew members execute EMS resistance training under localized fluid immersion while breathing mountain-altitude low-oxygen matrices. This forces immediate cellular Autophagy (dismantling radiation-damaged structures) and accelerates the uptake of dietary proteins to construct pristine cellular tissue.
-- **Wet Operating Theater:** The medical bay can be filled with sterile liquid fluorocarbon. The hydrostatic immersion pressure replaces gravity, keeping internal human organs and hemorrhages completely stabilized in zero-G during critical surgical interventions.
-
----
-
-## ☄️ 5. ASYNCHRONOUS MINING: Fiber-Optic Drone Networks
-
-- **The Physician's Sanctuary:** The ship's medical officer remains within the heavily armored emäalus envelope, managing crew vitals and atmospheric regulation while automated systems clear the hazards of the mining face.
-- **Tethered Fiber-Optic Drones:** Drone units execute extraction maneuvers using physical fiber-optic spools. This layout guarantees 100% immunity to solar electromagnetic interference, maintains 0-lag control loops, and acts as a mechanical safety tether.
-- **Isotopic Separation:** Excavated water is pre-filtered at the drone level and separated into light water and heavy water (Deuterium) aboard the ship, with biological arrays handling final purification.
 
 ---
 
