@@ -45,6 +45,9 @@ The terrestrial launch infrastructure utilizes an optimized, non-electric vacuum
   3. *Carbon Cone 2 (Fore Guide):* High-thermal carbon composite that blankets and laminates the remaining gas flow.
   4. *Spacecraft Core (Payload):* High-logic crew capsule traveling safely inside the created low-pressure vacuum pocket.
   5. *Carbon Cone 1 (Aft Guide):* Aerodynamic rear cone that closes the wake airflow softly, entirely eliminating base drag.
+- **Thermally Conductive Dielectric Tube & Closed-Loop Basalt Water Jacket:** The 10-meter oblique zig-zag vacuum tubes are fabricated from thermally conductive, electrically insulating basalt composite (doped with Boron Nitride, SiC, or AlN fillers) and encased within a closed-loop Basalt Fiber Reinforced Polymer (BFRP) water jacket. This 100% corrosion-free assembly eliminates braking eddy currents, actively cools the acceleration coils, and harvests waste thermal energy.
+- **Pre-Spun Electric Start & 3D-Skewed Magnetic Rifling:** Rotational spin-stabilization is initiated electrically at the launch terminal prior to injection (spinning only the outer structural shell on human-rated Class 2 capsules while the liquid-immersion core remains non-rotating). Short, 3D-contoured skewed magnets bridge the expansion joints between 10-meter tube segments into a seamless "invisible magnetic rifling," supported by joint position sensors, longitudinal recoil anchors, and regenerative energy-recovery capacitors.
+- **Dual-End Carbon-Carbon (C/C) Thermal Cones:** High-temperature Carbon-Carbon composites are retained on both the fore and aft cones of the penetrator array to withstand extreme atmospheric entry friction at the nose and intense shockwave wake recompression heating at the tail.
 
 ---
 
