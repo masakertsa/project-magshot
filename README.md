@@ -24,7 +24,7 @@ graph LR
 
     style Tube fill:#5DADE2,stroke:#333,stroke-width:2px
     style Flex fill:#EB984E,stroke:#333,stroke-width:1px
-
+```
 
 The terrestrial launch infrastructure utilizes an optimized, non-electric vacuum tube assembly to break orbit without chemical fuel consumption, engineered as a multi-tier modular framework:
 
