@@ -7,23 +7,16 @@ This project introduces a high-logic, multi-tiered interplanetary transportation
 ## 🛠️ 1. THE MAGSHOT LAUNCHPAD: Symmetrical Oblique Vacuum Rail
 ```mermaid
 graph LR
-    subgraph "Modular Tube Geometry (Cross-Section & Path)"
-        Direction[Launch Direction] ---> P1[\ Oblique Tube 1 /]
-        P1 ---> P2[/ Oblique Tube 2 \]
-        P2 ---> P3[\ Oblique Tube 3 /]
+    subgraph "8-Node Interleaved Ring (360° Staggered)"
+        M1[0° Top] --- Tube((Vessel))
+        M2[45° Top-Right] --- Tube
+        M3[90° Right] --- Tube
+        M4[135° Bottom-Right] --- Tube
+        M5[180° Bottom] --- Tube
+        M6[225° Bottom-Left] --- Tube
+        M7[270° Left] --- Tube
+        M8[315° Top-Left] --- Tube
     end
-
-    subgraph "360° Accordion Magnetic Array (Centering Array)"
-        M1[Repelling Magnet: Top] --- Tube((Vessel Centered in Tube))
-        M2[Repelling Magnet: Bottom] --- Tube
-        M3[Repelling Magnet: Left] --- Tube
-        M4[Repelling Magnet: Right] --- Tube
-        
-        Flex[Accordion Structure / Flex Joints] -.->|Damps vibration & allows thermal expansion| M1 & M2 & M3 & M4
-    end
-
-    style Tube fill:#5DADE2,stroke:#333,stroke-width:2px
-    style Flex fill:#EB984E,stroke:#333,stroke-width:1px
 ```
 
 The terrestrial launch infrastructure utilizes an optimized, non-electric vacuum tube assembly to break orbit without chemical fuel consumption, engineered as a multi-tier modular framework:
