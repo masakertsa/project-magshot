@@ -25,7 +25,7 @@ graph LR
     style Tube fill:#5DADE2,stroke:#333,stroke-width:2px
     style Flex fill:#EB984E,stroke:#333,stroke-width:1px
 ```
-The terrestrial launch infrastructure utilizes an optimized, non-electric vacuum tube assembly to break orbit without chemical fuel consumption, engineered as a multi-tier modular framework:
+The terrestrial launch infrastructure utilizes an optimized, propellant-free vacuum tube assembly to break orbit without chemical fuel consumption, engineered as a multi-tier modular framework:
 
 - **Initial Kinetic Injection (Mass-Based Stage-0 Launch):** To prevent catastrophic energy spikes and coil overheating during zero-velocity startup, the system utilizes a mass-calculated initial propulsion stage:
   1. *Dynamic Mass Calculation:* The launch system quantifies the exact structural mass of the vessel before firing, delivering a precise kinetic energy payload to the base of the rail.
