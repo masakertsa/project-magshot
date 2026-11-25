@@ -70,6 +70,7 @@ To eliminate massive upfront capital barriers, Project MagShot scales in two fin
 
 ### 💧 Aerodynamic Teardrop Return Capsule (Low-Mass Cargo)
 Because the return payload consists solely of compact, lightweight Helium-3 tanks rather than heavy crew cabins, total kinetic entry energy ($E_k = \frac{1}{2}mv^2$) is minimal and structural G-tolerance is high:
+- **LEO Orbital Staging & Precision De-Orbit Node:** Rather than plunging directly from lunar transfer velocity (11 km/s) into the atmosphere, returning cargo capsules first dock at a Low Earth Orbit (LEO) transfer hub. Releasing capsules from LEO reduces atmospheric entry speed to ~7.8 km/s (halving peak thermal and kinetic loads) and allows de-orbit burns to be timed to the exact second the ground track aligns with the deceleration basin's approach corridor.
 - **Forward-Weighted Teardrop Geometry:** The center of mass is positioned directly behind a **Carbon-Carbon (C/C) nose cone**, paired with small aft control fins. This creates passive aerodynamic stability during atmospheric re-entry, keeping the C/C heat shield locked into the airflow without active thrusters.
 - **Dual-Layer Thermal Foam & Monolithic Inner Seal:** Beneath the C/C nose sits a two-stage insulation barrier: an outer **high-temperature ceramic/carbon foam** that blocks re-entry heat conduction, and an inner **cryogenic foam layer** bonded with a continuous internal vapor seal to prevent Helium-3 boil-off or leakage.
 
