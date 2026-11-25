@@ -61,6 +61,23 @@ The infrastructure scales across three dedicated track configurations optimized 
   1. *Zero-Downtime Swaps:* While Tube A actively launches outbound vessels, Tube B is locked into a downward maintenance berth.
   2. *Revolver Core Mechanism:* When Tube A requires cleaning or track lubrication, the internal cylinder mechanically rotates 180 degrees like a revolver cylinder, bringing the pristine Tube B online in milliseconds without halting scheduling.
 
+## 🔄 Phased Economic Loop & Passive Helium-3 Return System
+
+To eliminate massive upfront capital barriers, Project MagShot scales in two financially self-sustaining phases, closing the Earth–Moon logistics loop without parachutes or retro-rockets:
+
+1. **Phase 1 — 24 km Cargo Vector (High-G Industrial Launch):** The initial 24 km electromagnetic rail launches ruggedized mining, ISRU, and orbital infrastructure payloads at high G-loads. Because no human life-support systems are required, construction costs remain a fraction of a human-rated system.
+2. **Phase 2 — Lunar Helium-3 Revenue Funding the 600 km Passenger Line:** Automated lunar operations (such as *Project Lunar-Cradle*) harvest Helium-3 and rare resources, returning compact, high-value cargo capsules to Earth. The commercial energy revenue from Helium-3 directly finances the expansion into the low-G **600 km Class 2 Passenger Vector**.
+
+### 💧 Aerodynamic Teardrop Return Capsule (Low-Mass Cargo)
+Because the return payload consists solely of compact, lightweight Helium-3 tanks rather than heavy crew cabins, total kinetic entry energy ($E_k = \frac{1}{2}mv^2$) is minimal and structural G-tolerance is high:
+- **Forward-Weighted Teardrop Geometry:** The center of mass is positioned directly behind a **Carbon-Carbon (C/C) nose cone**, paired with small aft control fins. This creates passive aerodynamic stability during atmospheric re-entry, keeping the C/C heat shield locked into the airflow without active thrusters.
+- **Dual-Layer Thermal Foam & Monolithic Inner Seal:** Beneath the C/C nose sits a two-stage insulation barrier: an outer **high-temperature ceramic/carbon foam** that blocks re-entry heat conduction, and an inner **cryogenic foam layer** bonded with a continuous internal vapor seal to prevent Helium-3 boil-off or leakage.
+
+### 🌊 Bubble-Aerated Algae Deceleration Basin (Zero-Parachute Splashdown)
+Instead of single-use parachutes or ocean recovery fleets, capsules enter a dedicated artificial deceleration reservoir at a shallow glide angle:
+- **Aerated Algae Cushioning Layer:** Near-surface floating algae colonies continuously oxygenate and micro-bubble the upper water column. By lowering the effective fluid density and increasing compressibility, this aerated layer eliminates the violent "surface slam" upon water entry.
+- **Tapering Channel & Porous Concrete Wave Damping:** As the capsule skims into a narrowing, funnel-shaped water corridor, progressive hydrodynamic drag brings it to a smooth halt. High, **porous concrete retaining walls** line the channel to absorb splash energy and dissipate wake waves without destructive reflections—allowing rapid, automated capsule retrieval and reuse.
+
 ---
 
 ## 📄 License
