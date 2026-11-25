@@ -77,6 +77,14 @@ Because the return payload consists solely of compact, lightweight Helium-3 tank
 Instead of single-use parachutes or ocean recovery fleets, capsules enter a dedicated artificial deceleration reservoir at a shallow glide angle:
 - **Aerated Algae Cushioning Layer:** Near-surface floating algae colonies continuously oxygenate and micro-bubble the upper water column. By lowering the effective fluid density and increasing compressibility, this aerated layer eliminates the violent "surface slam" upon water entry.
 - **Tapering Channel & Porous Concrete Wave Damping:** As the capsule skims into a narrowing, funnel-shaped water corridor, progressive hydrodynamic drag brings it to a smooth halt. High, **porous concrete retaining walls** line the channel to absorb splash energy and dissipate wake waves without destructive reflections—allowing rapid, automated capsule retrieval and reuse.
+- **Freshwater Zero-Corrosion Turnaround:** Unlike ocean splashdowns—where hot spacecraft hulls suffer severe saltwater chloride corrosion, conductive salt-spray shorts, and baked-on mineral fouling in seams and magnetic actuators—a closed freshwater reservoir eliminates salt-induced degradation entirely, enabling rapid, low-cost vehicle refurbishment and relaunch.
+
+
+### 🛡️ Human-Rated Splashdown Protection (Class 2 Passenger Variant)
+When scaling water landings from compact cargo capsules to larger human-rated **Class 2 Passenger Vehicles**, ventral thermal shock, steam-flash discharges, and hydrodynamic suction (Coandă effect) at water contact are eliminated through three integrated safeguards:
+- **Orbital Vacuum-Foamed Crush Shield:** Prior to de-orbiting, orbital nozzles extrude a pre-ceramic polymer or lunar-derived aluminum-silicate resin across the vessel's ventral hull. Exposure to the vacuum of space naturally foams the matrix into a closed-cell structural sponge cured via solar UV or induction heating. During atmospheric re-entry, the outer cells ablate to keep the hull cool; upon water impact, the remaining porous foam acts as a sacrificial mechanical crush zone that absorbs hydrodynamic shock and prevents violent steam-flash discharges.
+- **Stepped Ventral Hull (Anti-Suction Chine):** A sharp hydrodynamic step along the lower hull breaks surface-tension suction at high horizontal skim speeds, entraining air beneath the aft section to prevent nose-diving or tail-slamming.
+- **Two-Stage Aerated Deceleration Corridor:** Combined with the crew's internal **liquid-immersion G-cabins**, the entry zone of the artificial basin uses dense subsurface micro-bubble injection alongside floating algae to cut initial water density nearly in half—transitioning smoothly into denser, un-aerated water further down the tapering channel for a gentle < 3 G stop.
 
 ---
 
